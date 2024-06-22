@@ -43,7 +43,8 @@ The program handles the following exceptions:
 - `SQLException`: Displayed when there is an issue with the database connection or SQL query execution.
 - `InputMismatchException`: Displayed when the user input does not match the expected data type.
 - `Exception`: Displayed for any other unexpected exceptions that may occur during program execution.
-  you can see different test cases in the provided report 
+ 
+ you can see different test cases in the provided report 
 
 
 ## Contact
