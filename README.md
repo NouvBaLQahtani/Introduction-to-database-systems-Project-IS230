@@ -6,6 +6,8 @@ UniScheduler is a Java program that allows interaction with the `Room` table of 
 
 1. **Insert Operation**: The program prompts the user to enter values for each attribute of the `Room` table, one by one, and then inserts the new record into the database.
 2. **Display Operation**: The program displays all the records currently inserted in the `Room` table.
+3. **Exit Operation**: The program ends its execution and exit. 
+
 
 The program handles any exceptions that may occur during execution and provides clear messages about the underlying problems.
 
@@ -41,7 +43,7 @@ The program handles the following exceptions:
 - `SQLException`: Displayed when there is an issue with the database connection or SQL query execution.
 - `InputMismatchException`: Displayed when the user input does not match the expected data type.
 - `Exception`: Displayed for any other unexpected exceptions that may occur during program execution.
-you can see different test cases in the provided report 
+  you can see different test cases in the provided report 
 
 
 ## Contact
